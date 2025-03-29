@@ -83,8 +83,9 @@ plt.grid()
 plt.tight_layout()
 plt.show()
 
-###Output Waveform
+Output Waveform
 ![Screenshot 2025-03-29 111641](https://github.com/user-attachments/assets/6366e204-8d01-4d6d-9348-19c9da15c620)
 
-###Results
+Results
+
 The Delta Modulation (DM) is successfully demonstrated the conversion of an analog signal into a digital bitstream and its reconstruction. 
